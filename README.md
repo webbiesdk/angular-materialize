@@ -1,3 +1,7 @@
+### There is no development on this repository, go to https://github.com/krescruz/angular-materialize/ instead. 
+
+
+
 angular-materialize
 ===================
 
